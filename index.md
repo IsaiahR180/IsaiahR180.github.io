@@ -1,7 +1,7 @@
 
 # Isaiah Ramirez's Portfolio
 
-I am a computer engineering major at CSUF and plan on graduating in 2028.
+Hello, I am a computer engineering major at CSUF and plan on graduating in 2028.
 Fun fact: I like dinosaurs.
 
 ## Favorite CPSC 120L Labs
